@@ -1,0 +1,19 @@
+.team-profiles img{
+    width: 100px;
+    height: 100px;
+    
+}
+
+.team-profiles{ 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;     
+}
+
+.profile-card{
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 10px 10px red;
+}
